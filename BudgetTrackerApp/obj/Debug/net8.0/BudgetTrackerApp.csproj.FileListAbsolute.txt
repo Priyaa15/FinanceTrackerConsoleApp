@@ -1,0 +1,14 @@
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/obj/Debug/net8.0/BudgetTrackerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/obj/Debug/net8.0/BudgetTrackerApp.AssemblyInfoInputs.cache
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/obj/Debug/net8.0/BudgetTrackerApp.AssemblyInfo.cs
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/obj/Debug/net8.0/BudgetTrackerApp.csproj.CoreCompileInputs.cache
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/bin/Debug/net8.0/BudgetTrackerApp
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/bin/Debug/net8.0/BudgetTrackerApp.deps.json
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/bin/Debug/net8.0/BudgetTrackerApp.runtimeconfig.json
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/bin/Debug/net8.0/BudgetTrackerApp.dll
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/bin/Debug/net8.0/BudgetTrackerApp.pdb
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/obj/Debug/net8.0/BudgetTrackerApp.dll
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/obj/Debug/net8.0/refint/BudgetTrackerApp.dll
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/obj/Debug/net8.0/BudgetTrackerApp.pdb
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/obj/Debug/net8.0/BudgetTrackerApp.genruntimeconfig.cache
+/Users/priyap/Dev/Practice/FinanceTrackerConsoleApp/BudgetTrackerApp/obj/Debug/net8.0/ref/BudgetTrackerApp.dll
